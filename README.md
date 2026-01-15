@@ -2,9 +2,16 @@
 
 Скрипт для автоматической настройки Termux на Android-устройстве.
 
-## Использование
+## Установка
 
 ```bash
+curl -fsSL https://github.com/foxzi/tuntermux/raw/refs/heads/master/tuntermux.sh | bash
+```
+
+Или скачать и запустить вручную:
+
+```bash
+curl -fsSL https://github.com/foxzi/tuntermux/raw/refs/heads/master/tuntermux.sh -o tuntermux.sh
 chmod +x tuntermux.sh
 ./tuntermux.sh
 ```
