@@ -1,12 +1,12 @@
-# Termux Setup Script
+# TunTermux
 
 Скрипт для автоматической настройки Termux на Android-устройстве.
 
 ## Использование
 
 ```bash
-chmod +x setup_termux.sh
-./setup_termux.sh
+chmod +x tuntermux.sh
+./tuntermux.sh
 ```
 
 ## Что делает скрипт
