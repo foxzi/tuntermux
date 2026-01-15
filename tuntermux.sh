@@ -23,7 +23,7 @@ PACKAGES=(
   ripgrep
   rsync
   dnsutils
-  telnet
+  netcat-openbsd
   tmux
   tree
   whois

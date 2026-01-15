@@ -58,7 +58,7 @@ chmod +x tuntermux.sh
 | ripgrep | Быстрый поиск по файлам |
 | rsync | Синхронизация файлов |
 | dnsutils | DNS-утилиты (dig, nslookup) |
-| telnet | Telnet-клиент |
+| netcat-openbsd | Сетевая утилита nc |
 | tmux | Терминальный мультиплексор |
 | tree | Отображение дерева каталогов |
 | whois | WHOIS-запросы |
